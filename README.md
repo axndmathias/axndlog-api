@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="Churrascometro" src="https://user-images.githubusercontent.com/8337562/147568715-692f777e-99c5-4b00-a1b8-a01f408f025a.png" width="100%">
+  <img alt="diagrama" src="https://user-images.githubusercontent.com/8337562/160182792-3c23cd65-f5a9-4dd7-9c08-a555d09f9352.jpg" width="100%">
 </p>
 
 <p align="center">

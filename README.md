@@ -34,15 +34,15 @@
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
--  [Java 11]
--  [Spring boot]
--  [Maven]
--  [Swagger]
--  [Flyway]
--  [MySql Database]
--  [Spring Data Jpa]
--  [Postman]
--  [Lombok]
+- Java 11
+- Spring boot
+- Maven
+- ModelMapper
+- Flyway
+- MySql Database
+- Spring Data Jpa
+- Postman
+- Lombok
 
 ## Licença
 
